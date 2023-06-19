@@ -1,0 +1,102 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /lib32
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+gconv/
+ld-2.31.so*
+libc-2.31.so*
+libpthread-2.31.so*
+ld-linux.so.2@	 --> /usr/lib32/ld-2.31.so
+libBrokenLocale-2.31.so
+libBrokenLocale.a
+libBrokenLocale.so.1@	 --> /usr/lib32/libBrokenLocale-2.31.so
+libBrokenLocale.so@	 --> /usr/lib32/libBrokenLocale-2.31.so
+libSegFault.so
+libanl-2.31.so
+libanl.a
+libanl.so.1@	 --> /usr/lib32/libanl-2.31.so
+libanl.so@	 --> /usr/lib32/libanl-2.31.so
+libasan.so.5.0.0
+libasan.so.5@	 --> /usr/lib32/libasan.so.5.0.0
+libatomic.so.1.2.0
+libatomic.so.1@	 --> /usr/lib32/libatomic.so.1.2.0
+libc.a
+libc.so
+libc.so.6@	 --> /usr/lib32/libc-2.31.so
+libc_nonshared.a
+libdl-2.31.so
+libdl.a
+libdl.so.2@	 --> /usr/lib32/libdl-2.31.so
+libdl.so@	 --> /usr/lib32/libdl-2.31.so
+libg.a
+libgcc_s.so.1
+libgomp.so.1.0.0
+libgomp.so.1@	 --> /usr/lib32/libgomp.so.1.0.0
+libitm.so.1.0.0
+libitm.so.1@	 --> /usr/lib32/libitm.so.1.0.0
+libm-2.31.so
+libm.a
+libm.so.6@	 --> /usr/lib32/libm-2.31.so
+libm.so@	 --> /usr/lib32/libm-2.31.so
+libmcheck.a
+libmemusage.so
+libnsl-2.31.so
+libnsl.a
+libnsl.so.1@	 --> /usr/lib32/libnsl-2.31.so
+libnsl.so@	 --> /usr/lib32/libnsl-2.31.so
+libnss_compat-2.31.so
+libnss_compat.so.2@	 --> /usr/lib32/libnss_compat-2.31.so
+libnss_compat.so@	 --> /usr/lib32/libnss_compat-2.31.so
+libnss_dns-2.31.so
+libnss_dns.so.2@	 --> /usr/lib32/libnss_dns-2.31.so
+libnss_dns.so@	 --> /usr/lib32/libnss_dns-2.31.so
+libnss_files-2.31.so
+libnss_files.so.2@	 --> /usr/lib32/libnss_files-2.31.so
+libnss_files.so@	 --> /usr/lib32/libnss_files-2.31.so
+libnss_hesiod-2.31.so
+libnss_hesiod.so.2@	 --> /usr/lib32/libnss_hesiod-2.31.so
+libnss_hesiod.so@	 --> /usr/lib32/libnss_hesiod-2.31.so
+libnss_nis-2.31.so
+libnss_nis.so.2@	 --> /usr/lib32/libnss_nis-2.31.so
+libnss_nis.so@	 --> /usr/lib32/libnss_nis-2.31.so
+libnss_nisplus-2.31.so
+libnss_nisplus.so.2@	 --> /usr/lib32/libnss_nisplus-2.31.so
+libnss_nisplus.so@	 --> /usr/lib32/libnss_nisplus-2.31.so
+libpcprofile.so
+libpthread.a
+libpthread.so.0@	 --> /usr/lib32/libpthread-2.31.so
+libpthread.so@	 --> /usr/lib32/libpthread-2.31.so
+libquadmath.so.0.0.0
+libquadmath.so.0@	 --> /usr/lib32/libquadmath.so.0.0.0
+libresolv-2.31.so
+libresolv.a
+libresolv.so.2@	 --> /usr/lib32/libresolv-2.31.so
+libresolv.so@	 --> /usr/lib32/libresolv-2.31.so
+librt-2.31.so
+librt.a
+librt.so.1@	 --> /usr/lib32/librt-2.31.so
+librt.so@	 --> /usr/lib32/librt-2.31.so
+libstdc++.so.6.0.28
+libstdc++.so.6@	 --> /usr/lib32/libstdc++.so.6.0.28
+libthread_db-1.0.so
+libthread_db.so.1@	 --> /usr/lib32/libthread_db-1.0.so
+libthread_db.so@	 --> /usr/lib32/libthread_db-1.0.so
+libubsan.so.1.0.0
+libubsan.so.1@	 --> /usr/lib32/libubsan.so.1.0.0
+libutil-2.31.so
+libutil.a
+libutil.so.1@	 --> /usr/lib32/libutil-2.31.so
+libutil.so@	 --> /usr/lib32/libutil-2.31.so
+Mcrt1.o
+Scrt1.o
+crt1.o
+crti.o
+crtn.o
+gcrt1.o
+grcrt1.o
+rcrt1.o
