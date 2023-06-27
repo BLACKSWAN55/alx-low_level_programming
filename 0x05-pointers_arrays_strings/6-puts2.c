@@ -1,24 +1,20 @@
 #include "main.h"
 
 /**
- * puts2 - prints every other character of a spring
- * @str: The string to be treated
- * Return: void
+ * puts2 - prints one character out of two
+ * @str: input
+ * Return: print
  */
-
-void puts(char *str)
+void puts2(char *str)
 {
-	int i;
-	int j = 0;
+	int i = 0;
 
-	while (str[j] != '\0')
+	for (; str[i] != '\0'; i++)
 	{
-	j++;
+		if ((i % 2) == 0)
+			_purchar(str[i]);
+		else
+			continue;
 	}
-
-	for (i = o; i < j; i += 2)
-	{
-	_putchar(str[i]);
-	}
-	_putchar('\n');
+	_purchar('\n');
 }
