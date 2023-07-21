@@ -3,11 +3,11 @@
 
 /**
  * get_op_func - selects the correct function to perform
- *        The operationasked by the user.
+ * The operationasked by the user.
  * @s: The operator passed as argument.
  *
  * Return: A pointer to the function corresponding
- *     to the operator given as a parameter
+ * to the operator given as a parameter
  */
 int(*get_op_func(char *s))(int, int)
 {
